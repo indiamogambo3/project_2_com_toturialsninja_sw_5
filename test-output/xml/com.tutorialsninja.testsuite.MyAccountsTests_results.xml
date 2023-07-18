@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nopcommerce Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.688">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToLoginPageSuccessfully" time="1.075" classname="com.tutorialsninja.testsuite.MyAccountsTests" />
+                <testcase name="verifyThatUserShouldLoginAndLogoutSuccessfully" time="7.142" classname="com.tutorialsninja.testsuite.MyAccountsTests" />
+                <testcase name="verifyUserShouldShouldNavigateToRegisterPageSuccessfully" time="1.479" classname="com.tutorialsninja.testsuite.MyAccountsTests" />
+                <testcase name="verifyThatUserRegisterAccountSuccessfully" time="12.992" classname="com.tutorialsninja.testsuite.MyAccountsTests" />
+      
+</testsuite>
